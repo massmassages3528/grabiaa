@@ -39,7 +39,7 @@ export const idols = [
     titleKo: '온통 코코사',
     titleEn: 'All About Kokosa',
     publisher: '集英社', release: '2023.09.29', price: '¥3,300',
-    isbn: '9784087901870', asin: '4087901874',
+    isbn: null, asin: '4087901874',
     accent: '#FF80AB', bg: '#1a0014',
     tag: { zh: '1st寫真集', ko: '1st 화보집', en: 'DEBUT BOOK' },
     desc: {
@@ -58,7 +58,7 @@ export const idols = [
     titleKo: '데라아이카',
     titleEn: 'Dera Aika',
     publisher: '講談社', release: '2019.03.27', price: '¥3,080',
-    isbn: '9784065150283', asin: '4065150280',
+    isbn: null, asin: '4065150280',
     accent: '#FF6F00', bg: '#160900',
     tag: { zh: 'Miss雜誌冠軍', ko: '미스매거진 그랑프리', en: 'MISS MAG GRAND PRIX' },
     desc: {
@@ -77,7 +77,7 @@ export const idols = [
     titleKo: '메모리',
     titleEn: 'memory',
     publisher: '講談社', release: '2025.03.19', price: '¥3,300',
-    isbn: '9784065379851', asin: '4065379857',
+    isbn: null, asin: '4065379857',
     accent: '#00BCD4', bg: '#001418',
     tag: { zh: '2024年度グランプリ', ko: '2024 그랑프리', en: '2024 GRAND PRIX' },
     desc: {
