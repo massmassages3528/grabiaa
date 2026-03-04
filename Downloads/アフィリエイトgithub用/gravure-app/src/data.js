@@ -32,7 +32,7 @@ export const idols = [
   },
   {
     id: 2, rank: 2,
-    name: '豊島心桜', reading: 'とよしまここさ',
+    name: '豊島心桜', reading: 'とよしまこころ',
     nameZh: '豐島心櫻', nameKo: '토요시마 코코사', nameEn: 'Kokosa Toyoshima',
     title: '心桜ばかり',
     titleZh: '滿滿都是心櫻',
@@ -47,7 +47,7 @@ export const idols = [
       ko: '청순한 외모 속에 숨겨진 설레는 매력. 1st 화보집은 발리에서 촬영, 가장 자연스럽고 생생한 모습을 담아냈다.',
       en: 'Beneath her innocent looks lies a captivating allure. Her debut photobook shot in Bali captures her most natural, authentic self.',
     },
-    youtubeId: '8XRtOTMd-Es',
+    youtubeId: 'AdN4yAOCDXdmhDaR',
   },
   {
     id: 3, rank: 3,
@@ -66,7 +66,7 @@ export const idols = [
       ko: "미스 매거진 2018 그랑프리. 하와이와 나고야에서 촬영. 「でら」는 나고야 방언으로 「매우」, 순수한 매력이 넘치는 1st 화보집.",
       en: "Miss Magazine 2018 Grand Prix. Shot in Hawaii and Nagoya. 'Dera' means 'super' in the Nagoya dialect — a sparkling debut full of charm.",
     },
-    youtubeId: '9_CNke-PdCs',
+    youtubeId: '7FsLZFCYc4i0jMF2',
   },
   {
     id: 4, rank: 4,
@@ -85,7 +85,7 @@ export const idols = [
       ko: '그라지아파 어워드 2024 그랑프리. 3rd 화보집 『memory』 초판 3만 부 즉시 증쇄. 레이와 그라비아계 정점.',
       en: "Grajapa Award 2024 Grand Prix. 3rd photobook 'memory' sold 30,000 copies instantly — the undisputed queen of Reiwa gravure.",
     },
-    youtubeId: 'fgw1dF7bJ5Q',
+    youtubeId: 'aI_jagZRvKbJ20bj',
   },
   {
     id: 5, rank: 5,
@@ -104,7 +104,7 @@ export const idols = [
       ko: '그라지아파 어워드 2025 그랑프리. 2025년 3월 데뷔 즉시 화제 석권, 6월 첫 표지. 웃음과 압도적 스타일로 2025년 최대 브레이크.',
       en: 'Grajapa Award 2025 Grand Prix. Debuted March 2025, first cover by June — the biggest breakout of 2025.',
     },
-    youtubeId: '6YDQPm2bsEk',
+    youtubeId: 'v6Z4pzYeqlIr1nss',
   },
   {
     id: 6, rank: 6,
@@ -123,6 +123,6 @@ export const idols = [
       ko: '자연스럽게 진심으로 빠져들게 만드는 천연 매력. 풍만한 몸매와 매혹적인 미소로 수많은 팬을 진심 연애시키는 여신.',
       en: "Her natural charm pulls you in before you realize it. With an irresistible figure and warm smile, she's the idol fans genuinely fall in love with.",
     },
-    youtubeId: 'vHQ1ggfRDKo',
+    youtubeId: 'QB8fJKhhcDWIhYwx',
   },
 ]
