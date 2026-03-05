@@ -125,4 +125,142 @@ export const idols = [
     },
     youtubeId: 'hGcheAKMyN8',
   },
+  // ============================================================
+// 1. 東雲うみ (Umi Shinonome)
+// ============================================================
+{
+  id: 7, rank: 7,
+  name: '東雲うみ', reading: 'しののめうみ',
+  nameZh: '东云海', nameKo: '시노노메 우미', nameEn: 'Umi Shinonome',
+  title: 'きみはうみがすき',
+  titleZh: '你喜歡大海嗎',
+  titleKo: '너는 바다를 좋아해',
+  titleEn: 'Do You Love the Sea?',
+  publisher: 'トランスワールドジャパン', release: '2023.04', price: '¥3,300',
+  isbn: '9784862563705', asin: 'B0BTM173N4',
+  accent: '#00B0FF', bg: '#001a2e',
+  tag: { zh: '二刀流女神', ko: '이도류 여신', en: 'DUAL WEAPON GODDESS' },
+  desc: {
+    zh: 'Gカップバストと100cmヒップを誇る「グラビア界の二刀流」。その豊かすぎる曲線美でSNSを席巻し、重版を重ねるほどの人気を誇るグラビア女王。',
+    ko: 'G컵 바스트와 100cm 힙을 자랑하는 "그라비아계의 이도류". 넘쳐흐르는 곡선미로 SNS를 석권, 중쇄를 거듭하는 그라비아 여왕.',
+    en: "Dubbed the 'dual weapon' of gravure, she wields a G-cup bust and 100cm hips with devastating effect. Her photos sell out reprints and dominate social media feeds.",
+  },
+  youtubeId: null,
+},
+
+// ============================================================
+// 2. 葉月くれあ (Kurea Hazuki)
+// ============================================================
+{
+  id: 8, rank: 8,
+  name: '葉月くれあ', reading: 'はづきくれあ',
+  nameZh: '叶月光', nameKo: '하즈키 쿠레아', nameEn: 'Kurea Hazuki',
+  title: 'clarus',
+  titleZh: 'clarus（光明）',
+  titleKo: 'clarus（빛나는）',
+  titleEn: 'clarus',
+  publisher: '講談社', release: '2025.08', price: '¥3,278',
+  isbn: '9784065410813', asin: '4065410819',
+  accent: '#FFD700', bg: '#1a1500',
+  tag: { zh: 'ミスマガ女王', ko: '미스마가 그랑프리', en: 'MISS MAGAZINE QUEEN' },
+  desc: {
+    zh: '「ミスマガジン2024」グランプリ受賞の史上最年長グランプリ。TikTokフォロワー急増、映画初出演も決定。あざと可愛さと大人っぽさが共存する次世代スター。',
+    ko: '「미스마가진 2024」 그랑프리 역대 최연장 수상자. TikTok 팔로워 폭증, 영화 데뷔도 확정. 애교스러운 귀여움과 어른스러움이 공존하는 차세대 스타.',
+    en: "Miss Magazine 2024's oldest-ever grand prize winner, with TikTok following that exploded overnight and a movie debut locked in. She's dangerously cute and charmingly calculated about it.",
+  },
+  youtubeId: null,
+},
+
+// ============================================================
+// 3. 田中美久 (Miku Tanaka)
+// ============================================================
+{
+  id: 9, rank: 9,
+  name: '田中美久', reading: 'たなかみく',
+  nameZh: '田中美久', nameKo: '타나카 미쿠', nameEn: 'Miku Tanaka',
+  title: 'ぜんぶ、ほんと',
+  titleZh: '全部，都是真心',
+  titleKo: '전부, 진짜야',
+  titleEn: 'All of It Is Real',
+  publisher: '集英社', release: '2026.03', price: '¥3,300',
+  isbn: '9784087902167', asin: null,
+  accent: '#FF6B6B', bg: '#1a0505',
+  tag: { zh: '令和最強ボディ', ko: '레이와 최강 바디', en: 'REIWA BODY GODDESS' },
+  desc: {
+    zh: '元HKT48の「令和のグラビアヴィーナス」。ポルトガルロケの3rd写真集で過去最大露出に挑戦。女優業でも頭角を現し、磨き続ける完璧なボディが日本最高峰と称される。',
+    ko: '전 HKT48의 "레이와 그라비아 비너스". 포르투갈 로케 3rd 사진집에서 역대 최고 노출에 도전. 배우로도 두각을 나타내며 갈고닦은 완벽한 바디는 일본 최고봉.',
+    en: "Former HKT48's 'Venus of the Reiwa era.' Her third photobook shot in Portugal marks her boldest work yet. Now a rising actress too — her relentlessly sculpted body is considered Japan's finest.",
+  },
+  youtubeId: null,
+},
+
+// ============================================================
+// 4. 本郷柚巴 (Yuzuha Hongo)
+// ============================================================
+{
+  id: 10, rank: 10,
+  name: '本郷柚巴', reading: 'ほんごうゆずは',
+  nameZh: '本乡柚巴', nameKo: '혼고 유즈하', nameEn: 'Yuzuha Hongo',
+  title: 'いつのまに、',
+  titleZh: '不知不覺間，',
+  titleKo: '어느새，',
+  titleEn: 'Before I Knew It,',
+  publisher: '講談社', release: '2025.12', price: '¥3,300',
+  isbn: '9784065419748', asin: '4065419743',
+  accent: '#FF9100', bg: '#1a0d00',
+  tag: { zh: 'グラビアシンデレラ', ko: '그라비아 신데렐라', en: 'GRAVURE CINDERELLA' },
+  desc: {
+    zh: '元NMB48の「グラビアシンデレラ」が活動10周年でカナダ・バンクーバーから新境地を届ける。笑顔と色気の両立で女性ファンをも虜にする。ゆず史上最高ボディを大解放。',
+    ko: '전 NMB48의 "그라비아 신데렐라"가 활동 10주년을 맞아 캐나다 밴쿠버에서 새로운 경지를 선보인다. 웃음과 색기를 동시에 갖춰 여성 팬까지 사로잡는다.',
+    en: "Former NMB48's 'Gravure Cinderella' celebrates 10 years with her boldest Vancouver shoot yet. Her combination of bright smile and undeniable sensuality captures fans of every gender.",
+  },
+  youtubeId: null,
+},
+
+// ============================================================
+// 5. 榎原依那 (Ina Enohara)
+// ============================================================
+{
+  id: 11, rank: 11,
+  name: '榎原依那', reading: 'えのはらいな',
+  nameZh: '榎原依那', nameKo: '에노하라 이나', nameEn: 'Ina Enohara',
+  title: 'I am Ina',
+  titleZh: '我就是依那',
+  titleKo: '나는 이나',
+  titleEn: 'I am Ina',
+  publisher: '講談社', release: '2025.12', price: '¥3,300',
+  isbn: null, asin: null,
+  accent: '#00E5FF', bg: '#00101a',
+  tag: { zh: '令和の国宝BODY', ko: '레이와의 국보 바디', en: 'NATIONAL TREASURE BODY' },
+  desc: {
+    zh: 'デビュー5ヶ月でFRIDAY完売・重版を連発した「グラビア界の超新星」。フィジー＆シドニー2カ国ロケの2nd写真集でグラデミー賞MVG（大賞）を受賞した令和最注目のボディ。',
+    ko: '데뷔 5개월에 FRIDAY 완판·중쇄를 연발한 "그라비아계의 초신성". 피지&시드니 2개국 로케 2nd 사진집으로 그라데미상 MVG(대상) 수상. 레이와 최고 주목 바디.',
+    en: "The 'supernova' who sold out FRIDAY within months of debut and picked up the Grademie Award's grand prize. Shot across Fiji and Sydney, her 2nd book confirms she's the era's most electrifying new presence.",
+  },
+  youtubeId: null,
+},
+
+// ============================================================
+// 6. 南みゆか (Miyuka Minami)
+// ============================================================
+{
+  id: 12, rank: 12,
+  name: '南みゆか', reading: 'みなみみゆか',
+  nameZh: '南美结花', nameKo: '미나미 미유카', nameEn: 'Miyuka Minami',
+  title: '南風',
+  titleZh: '南風',
+  titleKo: '남풍（南風）',
+  titleEn: 'Southern Wind',
+  publisher: '秋田書店', release: '2024.07', price: '¥3,300',
+  isbn: '9784253011266', asin: '4253011268',
+  accent: '#76FF03', bg: '#061a00',
+  tag: { zh: '現役JK最強ボディ', ko: '현역 JK 최강 바디', en: 'STRONGEST JK BODY' },
+  desc: {
+    zh: '三重県出身の次世代アイドルグラドル。現役JK最強ボディと称され、名古屋から全国区へと躍進。フィリピンロケのファースト写真集で少女と大人の境界を鮮烈に刻み込む。',
+    ko: '미에현 출신의 차세대 아이돌 그라비아. 현역 JK 최강 바디로 불리며 나고야에서 전국구로 약진. 필리핀 로케 1st 사진집에서 소녀와 어른의 경계를 강렬하게 새긴다.',
+    en: "The next-gen idol-gravure hybrid from Mie Prefecture, known as the strongest active high schooler body in the game. Her Philippines debut photobook captures the electric moment between girlhood and womanhood.",
+  },
+  youtubeId: null,
+},
+  
 ]
