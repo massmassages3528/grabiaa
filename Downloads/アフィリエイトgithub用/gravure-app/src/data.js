@@ -137,7 +137,7 @@ export const idols = [
   titleKo: '너는 바다를 좋아해',
   titleEn: 'Do You Love the Sea?',
   publisher: 'トランスワールドジャパン', release: '2023.04', price: '¥3,300',
-  isbn: '9784862563705', asin: 'B0BTM173N4',
+  isbn: null, asin: 'B0BTM173N4',
   accent: '#00B0FF', bg: '#001a2e',
   tag: { zh: '二刀流女神', ko: '이도류 여신', en: 'DUAL WEAPON GODDESS' },
   desc: {
@@ -145,7 +145,7 @@ export const idols = [
     ko: 'G컵 바스트와 100cm 힙을 자랑하는 "그라비아계의 이도류". 넘쳐흐르는 곡선미로 SNS를 석권, 중쇄를 거듭하는 그라비아 여왕.',
     en: "Dubbed the 'dual weapon' of gravure, she wields a G-cup bust and 100cm hips with devastating effect. Her photos sell out reprints and dominate social media feeds.",
   },
-  youtubeId: null,
+  youtubeId: '6TYR82SV6k0',
 },
 
 // ============================================================
@@ -160,7 +160,7 @@ export const idols = [
   titleKo: 'clarus（빛나는）',
   titleEn: 'clarus',
   publisher: '講談社', release: '2025.08', price: '¥3,278',
-  isbn: '9784065410813', asin: '4065410819',
+  isbn: null, asin: '4065410819',
   accent: '#FFD700', bg: '#1a1500',
   tag: { zh: 'ミスマガ女王', ko: '미스마가 그랑프리', en: 'MISS MAGAZINE QUEEN' },
   desc: {
@@ -168,7 +168,7 @@ export const idols = [
     ko: '「미스마가진 2024」 그랑프리 역대 최연장 수상자. TikTok 팔로워 폭증, 영화 데뷔도 확정. 애교스러운 귀여움과 어른스러움이 공존하는 차세대 스타.',
     en: "Miss Magazine 2024's oldest-ever grand prize winner, with TikTok following that exploded overnight and a movie debut locked in. She's dangerously cute and charmingly calculated about it.",
   },
-  youtubeId: null,
+  youtubeId: 'y88OomGn42Q',
 },
 
 // ============================================================
@@ -183,7 +183,7 @@ export const idols = [
   titleKo: '전부, 진짜야',
   titleEn: 'All of It Is Real',
   publisher: '集英社', release: '2026.03', price: '¥3,300',
-  isbn: '9784087902167', asin: null,
+  isbn: null, asin: '4087902161',
   accent: '#FF6B6B', bg: '#1a0505',
   tag: { zh: '令和最強ボディ', ko: '레이와 최강 바디', en: 'REIWA BODY GODDESS' },
   desc: {
@@ -191,7 +191,7 @@ export const idols = [
     ko: '전 HKT48의 "레이와 그라비아 비너스". 포르투갈 로케 3rd 사진집에서 역대 최고 노출에 도전. 배우로도 두각을 나타내며 갈고닦은 완벽한 바디는 일본 최고봉.',
     en: "Former HKT48's 'Venus of the Reiwa era.' Her third photobook shot in Portugal marks her boldest work yet. Now a rising actress too — her relentlessly sculpted body is considered Japan's finest.",
   },
-  youtubeId: null,
+  youtubeId: 'S1RqitsyDWE',
 },
 
 // ============================================================
@@ -206,7 +206,7 @@ export const idols = [
   titleKo: '어느새，',
   titleEn: 'Before I Knew It,',
   publisher: '講談社', release: '2025.12', price: '¥3,300',
-  isbn: '9784065419748', asin: '4065419743',
+  isbn: null, asin: '4065419743',
   accent: '#FF9100', bg: '#1a0d00',
   tag: { zh: 'グラビアシンデレラ', ko: '그라비아 신데렐라', en: 'GRAVURE CINDERELLA' },
   desc: {
@@ -214,7 +214,7 @@ export const idols = [
     ko: '전 NMB48의 "그라비아 신데렐라"가 활동 10주년을 맞아 캐나다 밴쿠버에서 새로운 경지를 선보인다. 웃음과 색기를 동시에 갖춰 여성 팬까지 사로잡는다.',
     en: "Former NMB48's 'Gravure Cinderella' celebrates 10 years with her boldest Vancouver shoot yet. Her combination of bright smile and undeniable sensuality captures fans of every gender.",
   },
-  youtubeId: null,
+  youtubeId: 'b0en2DiR29M',
 },
 
 // ============================================================
@@ -229,7 +229,7 @@ export const idols = [
   titleKo: '나는 이나',
   titleEn: 'I am Ina',
   publisher: '講談社', release: '2025.12', price: '¥3,300',
-  isbn: null, asin: null,
+  isbn: null, asin: '406541654X',
   accent: '#00E5FF', bg: '#00101a',
   tag: { zh: '令和の国宝BODY', ko: '레이와의 국보 바디', en: 'NATIONAL TREASURE BODY' },
   desc: {
@@ -237,7 +237,7 @@ export const idols = [
     ko: '데뷔 5개월에 FRIDAY 완판·중쇄를 연발한 "그라비아계의 초신성". 피지&시드니 2개국 로케 2nd 사진집으로 그라데미상 MVG(대상) 수상. 레이와 최고 주목 바디.',
     en: "The 'supernova' who sold out FRIDAY within months of debut and picked up the Grademie Award's grand prize. Shot across Fiji and Sydney, her 2nd book confirms she's the era's most electrifying new presence.",
   },
-  youtubeId: null,
+  youtubeId: '82KJeb8Mib0',
 },
 
 // ============================================================
@@ -252,7 +252,7 @@ export const idols = [
   titleKo: '남풍（南風）',
   titleEn: 'Southern Wind',
   publisher: '秋田書店', release: '2024.07', price: '¥3,300',
-  isbn: '9784253011266', asin: '4253011268',
+  isbn: null, asin: '4253011268',
   accent: '#76FF03', bg: '#061a00',
   tag: { zh: '現役JK最強ボディ', ko: '현역 JK 최강 바디', en: 'STRONGEST JK BODY' },
   desc: {
@@ -260,7 +260,7 @@ export const idols = [
     ko: '미에현 출신의 차세대 아이돌 그라비아. 현역 JK 최강 바디로 불리며 나고야에서 전국구로 약진. 필리핀 로케 1st 사진집에서 소녀와 어른의 경계를 강렬하게 새긴다.',
     en: "The next-gen idol-gravure hybrid from Mie Prefecture, known as the strongest active high schooler body in the game. Her Philippines debut photobook captures the electric moment between girlhood and womanhood.",
   },
-  youtubeId: null,
+  youtubeId: '7tkBCkBZ3gw',
 },
   
 ]
