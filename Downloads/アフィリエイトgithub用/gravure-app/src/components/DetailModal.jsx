@@ -48,10 +48,29 @@ export default function DetailModal({ idol, lang, onClose, onPlayYT }) {
       {/* Accent line */}
       <div className="modal-accent-line" style={{ background: `linear-gradient(to right, ${idol.accent}cc, transparent)` }} />
 
-      {/* Description */}
-      <p className="modal-desc" style={{ fontFamily: ff }}>{idol.desc[lang]}</p>
+      {/* ① CTA buttons — 最上位 */}
+      <div className="cta-area">
+        <a
+          className="btn-amazon"
+          href={affiliateLink(idol.asin)}
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{ fontFamily: ff }}
+        >
+          <AmazonSVG />
+          {t.buyAmazon} · {idol.price}
+        </a>
+        <div
+          className="btn-yt-link"
+          onClick={() => onPlayYT(idol.youtubeId)}
+          style={{ fontFamily: ff, cursor: 'pointer' }}
+        >
+          <YTIconRed />
+          {t.ytLabel}
+        </div>
+      </div>
 
-      {/* YouTube thumbnail card */}
+      {/* ② YouTube thumbnail card */}
       <div style={{ margin: '0 16px 12px' }}>
         <div className="modal-section-label" style={{ fontFamily: ff }}>{t.ytLabel}</div>
         <div
@@ -81,7 +100,10 @@ export default function DetailModal({ idol, lang, onClose, onPlayYT }) {
         </div>
       </div>
 
-      {/* Details table */}
+      {/* ③ Description */}
+      <p className="modal-desc" style={{ fontFamily: ff }}>{idol.desc[lang]}</p>
+
+      {/* ④ Details table */}
       <div className="details-table">
         {details.map(([label, value], i) => (
           <div className="detail-row" key={label} style={i === details.length - 1 ? { borderBottom: 'none' } : {}}>
@@ -89,28 +111,6 @@ export default function DetailModal({ idol, lang, onClose, onPlayYT }) {
             <span className="detail-value" style={{ fontFamily: ff }}>{value}</span>
           </div>
         ))}
-      </div>
-
-      {/* CTA */}
-      <div className="cta-area">
-        <a
-          className="btn-amazon"
-          href={affiliateLink(idol.asin)}
-          target="_blank"
-          rel="noopener noreferrer"
-          style={{ fontFamily: ff }}
-        >
-          <AmazonSVG />
-          {t.buyAmazon} · {idol.price}
-        </a>
-        <div
-          className="btn-yt-link"
-          onClick={() => onPlayYT(idol.youtubeId)}
-          style={{ fontFamily: ff, cursor: 'pointer' }}
-        >
-          <YTIconRed />
-          {t.ytLabel}
-        </div>
       </div>
     </div>
   )
